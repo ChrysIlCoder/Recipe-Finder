@@ -1,0 +1,17 @@
+@import '../../styles/settings';
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    background: $primary-color;
+
+    button {
+        text-transform: capitalize;
+        background: white;
+        padding: 10px;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+    }
+}
