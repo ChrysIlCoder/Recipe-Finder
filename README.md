@@ -1,8 +1,9 @@
-# React + Vite
+# Random Recipe Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Don't know what to eat? Why deciding it yourself when someone else can do it!? Use Random Recipe Finder to get the any recipe you want with just a click of a button!
+>We are not responsibile for any of the followings: Intoxications and Death
 
-Currently, two official plugins are available:
+## What it uses
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It uses the [Spooncular API](https://spoonacular.com/food-api) using the ```Get Random Recipes```
+For more informations, consult the docs: [Spooncular Docs](https://spoonacular.com/food-api/docs)
