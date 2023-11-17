@@ -6,4 +6,6 @@ Don't know what to eat? Why deciding it yourself when someone else can do it!? U
 ## What it uses
 
 It uses the [Spooncular API](https://spoonacular.com/food-api) using the ```Get Random Recipes```
-For more informations, consult the docs: [Spooncular Docs](https://spoonacular.com/food-api/docs)
+For more informations, consult the [Docs](https://spoonacular.com/food-api/docs)
+
+_Created by Christian Boffa_
